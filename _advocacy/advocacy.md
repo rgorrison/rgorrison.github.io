@@ -1,8 +1,8 @@
 ---
 title: "Advocacy"
-collection: advoacy
+collection: advocacy
 type: "climate"
-permalink: /advoacy/advocacy
+permalink: /advocacy/advocacy
 #venue: "University at Albany, SUNY; Department of Atmospheric and Environmental Sciences"
 #date: 2018-09-01
 #location: "Albany, NY, USA"
