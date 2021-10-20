@@ -1,5 +1,11 @@
-<object data="https://github.com/rgorrison/rgorrison.github.io/blob/master/files/Orrison_CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/rgorrison/rgorrison.github.io/blob/master/files/Orrison_CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/rgorrison/rgorrison.github.io/blob/master/files/Orrison_CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
