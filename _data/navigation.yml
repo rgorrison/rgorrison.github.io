@@ -18,8 +18,8 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Media"
-    url: /media/
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "CV"
     url: /cv/
