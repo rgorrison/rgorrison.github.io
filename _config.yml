@@ -190,6 +190,13 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  advocacy:
+    output: true
+    permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
+    
 
 
 # Defaults
