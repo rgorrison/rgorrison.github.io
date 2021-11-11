@@ -6,7 +6,7 @@ permalink: /advocacy/
 #venue: "University at Albany, SUNY; Department of Atmospheric and Environmental Sciences"
 #date: 2018-09-01
 #location: "Albany, NY, USA"
-excerpt: "I worked with the Science for the People Climate Change working group to develop a 'People's Green New Deal' Campaign.<br/>img src='/images/GND_banner_LR_small.jpg'>"
+excerpt: "I worked with the Science for the People Climate Change working group to develop a 'People's Green New Deal' Campaign.<br/><img src='/images/GND_banner_LR_small.jpg'>"
 ---
 
 Science for the People
