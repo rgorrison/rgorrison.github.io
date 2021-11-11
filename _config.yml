@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Orrison"
-  avatar           : "/images/orrison_profile_2020.jpg"
+  avatar           : "orrison_profile_2020.jpg"
   bio              : "Scientist. Advocate."
   location         : "Albany, NY"
   employer         :
