@@ -2,6 +2,7 @@
 ---
 title: "Chasing Traces From the Past"
 collection: outreach
+---
 
 ['Chasing Traces'](https://chasingtracespast.wixsite.com/chasingtracespast) is a beautiful and educational documentary about paleoclimatology: how proxies in nature can be used to improve our understanding of past changes in the Earth's cliamte. I had the opportunity to help translate the narration for this documentary and record the voice over for the English release of this film.
 
