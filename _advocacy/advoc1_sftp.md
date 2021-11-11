@@ -14,4 +14,4 @@ This campaign was designed to call attention to the need to combat the climate c
 
 Check out the webinar I moderated here!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2xNGTeXnclo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xNGTeXnclo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
