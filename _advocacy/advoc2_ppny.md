@@ -18,9 +18,9 @@ I am actively involved in leading the statewide overall strategy and labor relat
   <img src='/images/June2_PublicPower_Albany.jpg' width='600'>    
 </p>
 
-<p align='center'>
-  *Speaking at a rally in Albany, NY for Public Power. June, 2021*
-</p>
+<p align='center'><i>
+  Speaking at a rally in Albany, NY for Public Power. June, 2021
+</i></p>
 
   
 
