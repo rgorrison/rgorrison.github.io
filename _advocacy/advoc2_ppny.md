@@ -2,7 +2,7 @@
 title: "Public Power NY"
 collection: advocacy
 type: "climate"
-excerpt: "|<br/><img src='/images/red-logo-ppny.eps' width='200'> | I have been a part of steering the Public Power NY Coalition since January 2020.|"
+excerpt: "<img align='left' src='/images/red-logo-ppny.eps' width='200'> I have been a part of steering the Public Power NY Coalition since January 2020."
 ---
 
 Public Power NY Coalition
@@ -15,10 +15,12 @@ We are building a popular campaign to fight for a focused on a campaign to take 
 I am actively involved in leading the statewide overall strategy and labor relations strategy as a member of the Capital District DSA chapter, a member organization of the Public Power NY Coalition. 
 
 <p align='center'>
-  <img src='/images/June2_PublicPower_Albany.jpg' width='600'>
-  
-  *Speaking at a rally in Albany, NY for Public Power. June, 2021*
-  
+  <img src='/images/June2_PublicPower_Albany.jpg' width='600'>    
 </p>
 
+<p align='center'>
+  *Speaking at a rally in Albany, NY for Public Power. June, 2021*
+</p>
+
+  
 
