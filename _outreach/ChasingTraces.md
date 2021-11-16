@@ -1,6 +1,7 @@
 ---
 title: "Chasing Traces From the Past"
 collection: outreach
+permalink: /outreach/ChasingTraces
 ---
 
 Chasing Traces from the Past
