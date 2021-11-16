@@ -2,7 +2,7 @@
 title: "Public Power NY"
 collection: advocacy
 type: "climate"
-excerpt: "<img align='left' src='/images/red-logo-ppny.png' width='300'> I have been a part of steering the Public Power NY Coalition since January 2020."
+excerpt: "<img align='left' src='/images/red-logo-ppny.png' width='300'> I have been a part of steering the Public Power NY Coalition since January 2020.<br/>"
 ---
 
 Public Power NY Coalition
