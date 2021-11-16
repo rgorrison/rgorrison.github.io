@@ -2,7 +2,7 @@
 title: "Science for the People"
 collection: advocacy
 type: "climate"
-excerpt: "<img align='left' src='/images/GND_banner_LR_small.jpg' width='300'> I worked with the Science for the People Climate Change working group to develop a 'People's Green New Deal' Campaign from 2018 -- 2020."
+excerpt: "<br/><img align='left' src='/images/GND_banner_LR_small.jpg' width='300' hspace='50'> I worked with the Science for the People Climate Change working group to develop a 'People's Green New Deal' Campaign from 2018 -- 2020."
 ---
 
 Science for the People
