@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, thank you for visiting my personal website. I am PhD student at the Universty at Albany, in the [Department of Atmospheric and Environmental Sciences](https://www.albany.edu/daes) working under the advisement of Dr. Mathias Vuille. My research is focused on South American Monsoon System variability using an isotopic lens, both from proxies of past variability and istope-enabled climate models. I'm interested in how past atmospheric dynamics have changed and how both external forcing and internal variability influence climatic changes.
+Hello and welcome to my personal website. I am PhD student at the Universty at Albany, in the [Department of Atmospheric and Environmental Sciences](https://www.albany.edu/daes) working under the advisement of Dr. Mathias Vuille. My research is focused on South American Monsoon System variability using an isotopic lens, both from proxies of past variability and istope-enabled climate models. I'm interested in how past atmospheric dynamics have changed and how both external forcing and internal variability influence climatic changes.
 
 Since much of my work involves confronting changes in our climate, it is important to me to move beyond documenting and observing the climate crisis. To that end, I also engage in climate advocacy campaigns and a variety of outreach activities. 
 
