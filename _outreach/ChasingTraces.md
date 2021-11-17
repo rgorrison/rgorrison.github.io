@@ -1,7 +1,7 @@
 ---
 title: "Chasing Traces From the Past"
 collection: outreach
-permalink: /outreach/ChasingTraces
+exceprt: "In 2018, I helped translate and recorded a voice-over for a documentary about paleoclimatology."
 ---
 
 Chasing Traces from the Past
