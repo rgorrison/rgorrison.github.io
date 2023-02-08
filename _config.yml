@@ -86,9 +86,9 @@ author:
   location         : "Albany, NY"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Iy7JmM8AAAAJ"
   email            : rorrison@albany.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Rebecca-Orrison"
   uri              :
   bitbucket        :
   codepen          :
