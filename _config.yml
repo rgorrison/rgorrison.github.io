@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rebecca Orrison"
 title_separator          : "-"
-name                     : #&name "Rebecca Orrison"
+name                     : # &name "Rebecca Orrison"
 description              : &description "climate science phd candidate at UAlbany"
 url                      : https://rgorrison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Orrison"
-  avatar           : "sky_zoom_2022.jpeg"
+  avatar           : "/files/sky_zoom_2022.jpeg"
   bio              : "Scientist. Advocate."
   location         : "Albany, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Iy7JmM8AAAAJ"
   email            : rorrison@albany.edu
-  researchgate     : "https://www.researchgate.net/profile/Rebecca-Orrison"
+  researchgate     : # "https://www.researchgate.net/profile/Rebecca-Orrison"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/rebecca-orrison"
-  orcid            : "https://orcid.org/0000-0002-4233-2308"
+  orcid            : # "https://orcid.org/0000-0002-4233-2308"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
