@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello World!"
+title                    : "Rebecca Orrison"
 title_separator          : "-"
-name                     : &name "Rebecca Orrison"
-description              : &description "climate science graduate student at UAlbany"
+name                     : #&name "Rebecca Orrison"
+description              : &description "climate science phd candidate at UAlbany"
 url                      : https://rgorrison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rgorrison.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Orrison"
-  avatar           : "orrison_profile_2020.jpg"
+  avatar           : "sky_zoom_2022.jpeg"
   bio              : "Scientist. Advocate."
   location         : "Albany, NY"
   employer         :
