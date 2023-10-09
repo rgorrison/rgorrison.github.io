@@ -5,15 +5,15 @@ main:
 
   - title: "Advocacy"
     url: /advocacy/   
+    
+ - title: "Publications"
+   url: /publications/
         
   - title: "Outreach & Media"
     url: /outreach/
     
   - title: "CV"
-    url: /cv/ 
-
- # - title: "Publications"
- #   url: /publications/
+    url: /cv/
 
  # - title: "Talks"
  #   url: /talks/    
