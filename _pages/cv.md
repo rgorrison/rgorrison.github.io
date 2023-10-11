@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to view my [science cv](https://rgorrison.github.io/files/Orrison_CV.pdf)
 
-Click here to view my [advocacy cv](https://rgorrison.github.io/files/Orrison_CV_pol.pdf)
-
+<embed src="https://rgorrison.github.io/files/CV_Orrison.pdf" type="application/pdf" />
