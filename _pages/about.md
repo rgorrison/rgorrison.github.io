@@ -15,6 +15,7 @@ I am a solutions-oriented climate scientist excited to integrate my experience a
 Currently, I am looking for research opportunities to support the climate advocacy movement in building a positive vision of the future centered on justice and equity. 
 
 I recieved my Ph.D. in July of 2024 in atmospheric science from the Department of Atmospheric and Environmental Sciences from the University at Albany under the advisement of Dr. Mathias Vuille. My dissertation focused on the isotopic hydroclimate of the South American Summer Monsoon. This work synthesized diverse data sources to study the past, present, and future of large-scale atmospheric variability and change.  
+
 If you want to discuss research, advocacy, or are a student with questions about your own path forward, please reach out!
 
 <p align='center'>
