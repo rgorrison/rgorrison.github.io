@@ -3,33 +3,11 @@ layout: page
 title: Rebecca Orrison, Ph.D.
 subtitle: climate scientist; climate advocate
 use-site-title: true
-cvr-img:
+bigimg:
   - "/assets/img/ro_alps_2022.jpg" : "Central Alps; Tyrol, Aust (2022)"
   - "/assets/img/ro_pire2023_02_zoom.JPG" : "PIRE Academy lecture (2023)"
   - "/assets/img/BPRA_presser_roshouting.jpg" : "Rally for climate legislation (2021)"
 ---
-
-<div class="posts-list">
-  {% for post in posts %}
-  <article class="post-preview">
-
-    {%- capture thumbnail -%}
-      {% if post.thumbnail-img %}
-        {{ post.thumbnail-img }}
-      {% elsif post.cvr-img %}
-        {% if post.cvr-img.first %}
-          {{ post.cvr-img[0].first.first }}
-        {% else %}
-          {{ post.cr-img }}
-        {% endif %}
-      {% else %}
-      {% endif %}
-    {% endcapture %}
-    {% assign thumbnail=thumbnail | strip %}
-
-   </article>
-  {% endfor %}
-</div>
 
 <div>
 <p>I am a solutions-oriented climate scientist excited to integrate my experience as a researcher and community organizer with my passion for science and justice. Through my work, I have developed a record of both peer-reviewed <a href="https://scholar.google.com/citations?hl=en&user=Iy7JmM8AAAAJ"> publications and presentations</a> and <a href="rgorrison.github.io/outreach">community service and outreach</a>.</p>
