@@ -51,11 +51,11 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "rgorrison@gmail.com"
+  linkedin: rebecca-orrison
   researchgate: https://www.researchgate.net/profile/Rebecca-Orrison
-  linkedin: https://www.linkedin.com/in/rebecca-orrison/
 #  telephone: +16125810290
 #  calendly: yourname
-  ORCID: https://orcid.org/0000-0002-4233-2308
+  ORCID: 0000-0002-4233-2308
   google-scholar: https://scholar.google.com/citations?hl=en&user=Iy7JmM8AAAAJ
 
 ###########################
