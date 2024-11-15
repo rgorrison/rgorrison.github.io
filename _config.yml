@@ -24,7 +24,10 @@ navbar-links:
   Research: 
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  home: "rgorrison.github.io"
+  Advocacy:
+  #  - Organizing: "organizing"
+  #  - Public Engagement: "engagement"
+  Resume: "assets/docs/resume_Orrison.pdf"
 
 ################
 # --- Logo --- #
