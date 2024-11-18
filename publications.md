@@ -16,7 +16,7 @@ Additionally, a full list of publications, including conference presentations, c
 If you would like a pdf or any files, please feel free to send me an email. 
 
 ### 2024
-[7] (p) Lyu, Z., Vuille, M., Goosse, H., Orrison, R., Novello, V. F., Cruz, F. W., Strı́kis, N., Cauhy, J., South American monsoon intensification during the last millennium driven by joint Pacific and Atlantic forcing, <a href="https://doi.org/10.1126/sciadv.ado9543" target="_blanks">Science Advances</a>, 10(38), eado9543. 
+[7] (p) Lyu, Z., Vuille, M., Goosse, H., **Orrison, R.**, Novello, V. F., Cruz, F. W., Strı́kis, N., Cauhy, J., South American monsoon intensification during the last millennium driven by joint Pacific and Atlantic forcing, <a href="https://doi.org/10.1126/sciadv.ado9543" target="_blanks">Science Advances</a>, 10(38), eado9543. 
 
 [6] (p) **Orrison, R.**, Vuille, M., Cauhy Rodrigues, J., Strı́kis, N., Cruz, F., Andreu-Hayles, L., Rodriguez-Caton, M., (2024), Pacific Multidecadal and Interannual Variability influences on South American Monsoon $\delta^{18}O$, <a href="https://doi.org/10.1029/2024JD040999" target="_blanks">Journal of Geophysical Research: Atmospheres</a>, 129(17), e2024JD040999. 
 
