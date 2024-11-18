@@ -1,6 +1,6 @@
 ---
 type: page
-title: research
+title: publications
 ---
 
 Below is a record of my research products. Product types are indicated by:
