@@ -21,12 +21,13 @@ author: Rebecca Orrison, Ph.D.
 
 navbar-links:
   About Me: "aboutme"
-  Research: 
+  Research: "research"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Advocacy:
+  Advocacy: "advocacy"
   #  - Organizing: "organizing"
   #  - Public Engagement: "engagement"
+  Publications: "publications"
   Resume: "resume"
 
 ################
