@@ -1,6 +1,7 @@
 ---
 layout: post
 title: South American Monsoon System (SAMS) variability over the last millennium
+subtitle: A multi-archive and modeling approach to monsoon variability. This project became Chapter I of my doctoral thesis. 
 thumbnail: "/assets/img/proxylocs_gpcpfrac_era5U.png"
 ---
 
