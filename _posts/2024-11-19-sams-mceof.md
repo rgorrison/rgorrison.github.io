@@ -5,7 +5,7 @@ thumbnail: "/assets/img/proxylocs_gpcpfrac_era5U.png"
 ---
 
 # Paleorecord network analysis of South American Monsoon System Variability
-===
+
 The South American Monsoon is the most important source of water for drinking, agriculture, and energy in South America, and is central to many Indigenous cosmologies in the Amazon Basin. Understanding how the system has changed in the past not only establishes a range of variability that can be expected in the future, it is also key to defining the potential of the system to be influenced by external factors such as volcanic eruptions, changes in solar variability, the current global warming driven atmospheric pollution such as carbon dioxide and methane. In this work we analyze a network of paleoclimate records that archive variability of the South American Monsoon system and compare this natural record with climate model simulations to evaluate the extent to which models are able to represent the monsoon system over the last millennium. We find that the physical processes which make up the monsoon system are the result of the atmosphere-ocean-land surface interactions rather than directly a consequence of external factors. Though the paleoclimate records show that the monsoon can be modulated by external factors, we find that climate models poorly simulate this influence.
 
 The two leading modes of cohert network variability are defined as an index of the South American Summer Monsoon variability and an index of South Atlantic Convergence Zone variability. These indices are available as data products from the Zenodo archive below.
