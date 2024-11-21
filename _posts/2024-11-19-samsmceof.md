@@ -12,12 +12,14 @@ The South American Monsoon is the most important source of water for drinking, a
 The two leading modes of cohert network variability are defined as an index of the South American Summer Monsoon variability and an index of South Atlantic Convergence Zone variability. These indices are available as data products from the Zenodo archive below.
 
 <div align="center">
-  <img src='/assets/img/mceofint_1_2_Sept21.eps' width='600'>
+  <img src='/assets/img/mceofint_1_2_Sept21.png' width='600'>
    <figcaption>Monte Carlo Emperical Orthogonal Function (MCEOF) patterns and their corresponding dynamic interpretations. a) MCEOF1 loading pattern; b) upper-level (200 hPa) December, January, February (DJF) averaged streamlines from ERA-interim analysis; c) MCEOF2 loading pattern; d) spatial correlation of DJF outgoing longwave radiation (OLR) field with the PC1 of OLR variability derived from the SACZ region (black box). Colored circles indicate the correlation of local precipitation derived from station data with PC1 of the OLR decomposition over the SACZ region.</figcaption>
 </div>
 
-The publication of this research was selected as a highlight paper in Climate of the Past.
 ### Project products:
+
+The publication of this research was selected as a highlight paper in Climate of the Past.
+
 - **Orrison, R.**, Vuille, M., Smerdon, J. E., Apaéstegui, J., Azevedo, V., Campos, J. P. S., Cruz, F. W., Della Libera, M. E. and Strı́kis, N. M., (2022), South American Summer Monsoon Variability over the Last Millennium in Paleoclimate Records and Isotope-enabled Climate Models, <a href="https://cp.copernicus.org/articles/18/2045/2022/" target="_blank">Climate of the Past</a>, 18, 2045–2062.
 
 - **Orrison, R.**, Vuille, M., Smerdon, J. E., Apaéstegui, J., Azevedo, V., Campos, J. L. P. S., Cruz, F., W., Della Libera, M. E. and Strı́kis, N. M., (2022), Last Millennium &delta;<sup>18</sup>O, &delta;<sup>13</sup>C and U/Th ages of MV1 and MV30 stalagmite records from Mata Virgem cave (central Brazil). <a href="https://doi.pangaea.de/10.1594/PANGAEA.948181" target="_blank">PANGAEA</a>.
