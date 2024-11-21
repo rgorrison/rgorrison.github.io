@@ -1,18 +1,31 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: The imprint of Pacific SST low- and high-frequency modes of variability on the South American Summer Monsoon precipitation through the lens of stable oxygen isotopes.
+subtitle: Assessing the precipitation and circulation monsoon response to Pacific internal forcing via the Walker circulation
+thumbnail: "/assets/img/Fig2_ipoenso_proxylocs_gpcfrac_era5U_oceanmodes.jpg"
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Abstract 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+The summertime rainfall associated with the South American monsoon is important for the hydropower and agricultural sectors in South America as well as to the traditions of many Amazonian indigenous cultures. The amount and spatial extent of the monsoon rainfall patterns are influenced by a variety of factors, including changes in Pacific Ocean sea surface temperatures. While evaluating this link has been mostly limited to meteorological observations, the analysis of heavy and light oxygen atoms, called isotopes, in natural archives such as cave deposits, lake sediments, glacier ice, and tree rings, can help extend this relationship further back in time. In combination with climate models, the ratio between heavy and light isotopes can provide insight for the link between the Pacific Ocean and South American water cycle changes on interannual to multidecadal timescales. This allows us to better understand how the Pacific has influenced the South American monsoon in the past. It also allows us to better define the range of natural climate variability against which future changes can be compared.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+## Key Findings
+- South American summer monsoon variability is influenced by multidecadal and interannual variability of Pacific sea surface temperatures
+- Paleoclimate records combined with climate model synthesis enhance the interpretation of Pacific Ocean–South America teleconnections
+- The development of new paleoclimate records in South America can be informed by the archived signals of Pacific multidecadal variability
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+<div align="center">
+  <img src='/assets/img/Fig3_d18opwt_mod_prox_gnip_ipo_enso_1880_1999_diff.jpg' width='600'>
+   <figcaption>SASM (DJF) &\delta;<sup>18</sup>O<sub>p</sub> climatology and its response to Pacific Ocean modes. &\delta;<sup>18</sup>O<sub>p</sub> data are from the iCAM5 model (shading), terrestrial proxy records (circles), and IAEA station observations (squares). (a) DJF precipitation‐weighted average of &\delta;<sup>18</sup>O<sub>p</sub> (1880–1999 CE). Composites of positive–negative phase years for (b) IPO and (c) ENSO. Reference period for iCAM5 and proxy data cover the full study period of 1880–1999 CE and IAEA data are available from 1965–1986 CE. Statistical significance at p < 0.05 is indicated with a black cross for proxy records and IAEA stations and with black stippling for model simulations. Pumacocha, P00‐H1 and CR1 records are shifted slightly for visibility.</figcaption>
+</div>
+
+<div align="center">
+  <img src='/assets/img/Fig6_Walker_d18ov_q_diff_ipo_n34_10N_5S_SAm_topo.jpg' width='600'>
+   <figcaption>SASM (DJF) &\delta;<sup>18</sup>O<sub>p</sub> climatology and its response to Pacific Ocean modes. &\delta;<sup>18</sup>O<sub>p</sub> data are from the iCAM5 model (shading), terrestrial proxy records (circles), and IAEA station observations (squares). (a) DJF precipitation‐weighted average of &\delta;<sup>18</sup>O<sub>p</sub> (1880–1999 CE). Composites of positive–negative phase years for (b) IPO and (c) ENSO. Reference period for iCAM5 and proxy data cover the full study period of 1880–1999 CE and IAEA data are available from 1965–1986 CE. Statistical significance at p < 0.05 is indicated with a black cross for proxy records and IAEA stations and with black stippling for model simulations. Pumacocha, P00‐H1 and CR1 records are shifted slightly for visibility.</figcaption>
+</div>
+
+### Project products:
+This researched was published in the Journal of Geophysical Reseaerch: Atmospheres and the code is available from Zenodo:
+- **Orrison, R.**, Vuille, M., Cauhy Rodrigues, J., Strı́kis, N., Cruz, F., Andreu-Hayles, L., Rodriguez-Caton, M., (2024), Pacific Multidecadal and Interannual Variability influences on South American Monsoon &delta;<sup>18</sup>O, <a href="https://doi.org/10.1029/2024JD040999" target="_blanks">Journal of Geophysical Research: Atmospheres</a>, 129(17), e2024JD040999. 
+
+- **Orrison, R.**, Pacific influence on d18o in South American Monsoon precipitation (v1.0.1). <a href="https://doi.org/10.5281/zenodo.11212407" target="_blank">Zenodo</a>. 
