@@ -25,11 +25,11 @@ Mentoring and teaching one-on-one to support people on their personal and profes
 <tbody>
 <tr>
     <td><center>
-      If you want to learn more about paleoclimate science (and hear what I sound like), watch the amazing documentary <span style="font-style:italic">Chasing Traces</span> that I narrated.
+      If you want to learn more about paleoclimate science (and hear what I sound like), click this thumbnail to watch the amazing documentary <span style="font-style:italic">Chasing Traces</span> that I narrated.
     </center></td>
     <td><center>
       <button class="btn btn-default">
-     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="300" /></a> 
+     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="300"/></a> 
       </button>
     </center></td>
 </tr>
