@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: about me
 # subtitle: research within a theory of change.
 ---
 
