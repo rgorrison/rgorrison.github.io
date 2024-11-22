@@ -20,14 +20,18 @@ In my personal time, I can be found in nature on a hike, in my garden, or tendin
 Mentoring and teaching one-on-one to support people on their personal and professional paths is important to me. If you would like to have a conversation, please <a href="mailto:rgorrison@gmail.com">reach out</a>!
   
 ### A little tidbit:
-<table border="0">
-  <td>
-If you want to learn more about paleoclimate science (and hear what I sound like), watch the amazing documentary *Chasing Traces* that I narrated.
-   </td>
-   <td>
-    <button class="btn btn-default">
-     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="150" /></a> 
-</button>
-  </td>
-</table>
 
+<table id="repo-table">
+<tbody>
+<tr>
+    <td><center>
+      If you want to learn more about paleoclimate science (and hear what I sound like), watch the amazing documentary <span style="font-style:italic">Chasing Traces</span> that I narrated.
+    </center></td>
+    <td><center>
+      <button class="btn btn-default">
+     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="300" /></a> 
+      </button>
+    </center></td>
+</tr>
+</tbody>
+</table>
