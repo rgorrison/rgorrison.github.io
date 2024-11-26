@@ -9,11 +9,11 @@ I have been an active climate advocate through a wide variety of activities. Cli
 <tbody>
 <tr>
     <td id="organizing"><center>
-      <a href="./public_engagement/organizing.md"><img width="180" height="90" style="object-fit: contain;" src="assets/organize.jpg"></a>
+      <a href="rgorrison.github.io/public_engagement/organizing/"><img width="180" height="90" style="object-fit: contain;" src="assets/organize.jpg"></a>
       <div style="margin-top: 0.5rem"><b>organizing</b></div>
     </center></td>
     <td id="teaching"><center>
-      <a href="./public_engagement/teaching.md"><img width="180" height="90" style="object-fit: contain;" src="assets/teaching.jpg"></a>
+      <a href="./public_engagement/teaching"><img width="180" height="90" style="object-fit: contain;" src="assets/teaching.jpg"></a>
       <div style="margin-top: 0.5rem"><b>teaching</b></div>
     </center></td>
 </tr>
