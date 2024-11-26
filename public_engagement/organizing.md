@@ -1,4 +1,5 @@
 ---
+layout: page
 title: organizing
 subtitle: community organizing and leadership experiences
 # excerpt: "<img align='left' src='/images/red-logo-ppny.png' width='300' hspace='25'> I have been a part of steering the Public Power NY Coalition since January 2020.<br clear='left'/>"
@@ -20,9 +21,13 @@ I was actively involved in leading the statewide overall strategy and labor rela
 ### Science for the People
 The ['People's Green New Deal' Campaign](https://scienceforthepeople.org/peoples-green-new-deal/) was designed to call attention to the need to combat the climate crisis with widespread democratic input. We planned a series of [virtual teach-ins](https://scienceforthepeople.org/peoples-green-new-deal-virtual-teach-ins/), published a [Science for the People Magazine issue](https://magazine.scienceforthepeople.org/volume-23-number-2-a-peoples-green-new-deal/).
 
-Check out the webinar I moderated here!
-<iframe width="300" src="https://www.youtube.com/embed/2xNGTeXnclo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+Check out the webinar I moderated here:
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/2xNGTeXnclo">
 </iframe>
+
+
+
 
 <!--height="315" -->
 ### Food and Climate Justice
