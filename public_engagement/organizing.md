@@ -14,7 +14,7 @@ I was actively involved in leading the statewide overall strategy and labor rela
 
 <p>
   <a><img src='/assets/img/ro_PublicPower_Albany_2024_06_02.jpg' width='300'></a>    
-  <br></br>
+  <br>
   <caption style="text-align:center;font-style:italic">Speaking at a rally in Albany, NY for public power; June 2021</caption>
 </p>
 
@@ -26,15 +26,12 @@ Check out the webinar I moderated here:
 src="https://www.youtube.com/embed/2xNGTeXnclo">
 </iframe>
 
-
-
-
 <!--height="315" -->
 ### Food and Climate Justice
 This workshop was organized as a multi-part event comprising a Q&A with a panel of experts, small group discussions, and change for small groups to share back to the full audience. Over 80 people attended the event, sharing practices of community resiliency and brainstorming ideas for the future. 
 
 <p>
   <a><img src='/assets/img/climate_food_full.JPG' width='300'></a>    
-  <br></br>
+  <br>
   <caption style="text-align:center;font-style:italic">Facilitating the community forum in Albany, NY; 2019</caption>
 </p>
