@@ -9,21 +9,21 @@ I have been an active climate advocate through a wide variety of activities. Cli
 <tbody>
 <tr>
     <td id="organizing"><center>
-      <a href="rgorrison.github.io/public_engagement/organizing/"><img width="180" height="90" style="object-fit: contain;" src="/assets/img/organize.jpg"></a>
+      <a href="rgorrison.github.io/public_engagement/organizing/"><img width="180" style="object-fit: contain;" src="/assets/img/organize.jpg"></a>
       <div style="margin-top: 0.5rem"><b>organizing</b></div>
     </center></td>
     <td id="teaching"><center>
-      <a href="rgorrison.github.io/public_engagement/teaching/"><img width="180" height="90" style="object-fit: contain;" src="/assets/img/teaching.jpg"></a>
+      <a href="rgorrison.github.io/public_engagement/teaching/"><img width="180" style="object-fit: contain;" src="/assets/img/teaching.jpg"></a>
       <div style="margin-top: 0.5rem"><b>teaching</b></div>
     </center></td>
 </tr>
 <tr>
     <td id="public talks"><center>
-      <a href="rgorrison.github.io/public_engagement/public_talks/"><img width="180" height="90" style="object-fit: contain;" src="/assets/img/megaphone.png"></a>
+      <a href="rgorrison.github.io/public_engagement/public_talks/"><img width="180" style="object-fit: contain;" src="/assets/img/megaphone.png"></a>
       <div style="margin-top: 0.5rem"><b>public talks</b></div>
     </center></td>
     <td id="media"><center>
-      <a href="rgorrison.github.io/public_engagement/media/"><img width="180" height="90" style="object-fit: contain;" src="/assets/img/media.jpeg"></a>
+      <a href="rgorrison.github.io/public_engagement/media/"><img width="180" style="object-fit: contain;" src="/assets/img/media.jpeg"></a>
       <div style="margin-top: 0.5rem"><b>media</b></div>
     </center></td>
 </tr>  
