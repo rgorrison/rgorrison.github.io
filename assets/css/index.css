@@ -38,9 +38,12 @@
 table#repo-table > tbody > tr {
    display: block;
    width: 90%
+   margin: auto;
 }
 
 table#repo-table > tbody > tr > td {
    padding: 1rem;
+   border:none; 
    border-collapse: collapse;
 }
+
