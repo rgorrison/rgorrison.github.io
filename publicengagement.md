@@ -5,7 +5,7 @@ title: public engagement
 
 I have been an active climate advocate through a wide variety of activities. Click on the icons below to learn further details about my work. 
         
-<table id="repo-table" align="center" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0" >
+<table id="repo-table" align="center">
 <tbody>
 <tr>
     <td id="organizing"><center>
