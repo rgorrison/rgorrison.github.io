@@ -1,7 +1,6 @@
 ---
 layout: page
 title: teaching
-subtitle: teaching and workshop facilitation
 ---
 
 My public education has instilled in me the value of education for the public good. As an educator, my primary goal is not merely to transfer knowledge, but to empower others to be actively engaged in their learning and connect educational content to their day-to-day experience.
@@ -15,8 +14,8 @@ I have served as an educator in a variety of settings, including during workshop
 - "Science and storytelling: The false dualism of the professional climate scientist and the individual living in a changing climate", Graduate Climate Conference, Woods Hole, MA
  
 ### Guest lectures taught
-- STSH/S 4961, "Grassroots Science", Rensselear Polytechnic Institute: *A Paleoclimate Perspective on Climate Variability / Science and Activism*
-- "Science Research", Sacred Heart Greenwhich: *Exploring South American Climate Variability through time; Topics in the Research Process*
+- "A Paleoclimate Perspective on Climate Variability / Science and Activism", STSH/S 4961: Grassroots Science, Rensselear Polytechnic Institute.
+- "Exploring South American Climate Variability through time; Topics in the Research Process", Science Research: Sacred Heart Greenwhich.
   
-### Teaching Assistantships held
-- ESPM/GEOG 1425, "Introduction to Weather and Climate", University of Minnesota.
+### Teaching and Lab Assistantship held
+- ESPM/GEOG 1425: Introduction to Weather and Climate, University of Minnesota.
