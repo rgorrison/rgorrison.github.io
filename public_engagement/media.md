@@ -17,13 +17,13 @@ I have been interviewed a few times for both my activism and research.
       Interviewed as part of a short film about the research and international partnerships of the PIRE-CREATE project.
     </td>
 </tr>  
- <tr>
+<tr>
     <td><center>
     <button class="btn btn-default">
      <a href="https://youtu.be/Ig11YJYUjYk?si=wwHWSNjdCbjbgmYM" target="_blank"><img src="http://img.youtube.com/vi/Ig11YJYUjYk/hqdefault.jpg" width="400"/></a> 
       </button>
     </center></td>
-    <td style="border:none”>
+    <td>
       Discussing my own activism as a climate scientist with the Extinction Rebellion NYC podcast.
     </td>
 </tr>
