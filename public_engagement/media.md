@@ -5,12 +5,12 @@ title: media
 
 I have been interviewed a few times for both my activism and research. 
 
-<table id="repo-table">
+<table id="repo-table" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
 <tbody>
 <tr>
-    <td><center>
+    <td style="border:none"><center>
     <button class="btn btn-default">
-     <a href="https://youtu.be/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ" target="_blank"><img src="https://youtu.be/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ/hqdefault.jpg" width="300"/></a> 
+     <a href="https://youtu.be/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ" target="_blank"><img src="https://youtu.be/vi/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ/hqdefault.jpg" width="400"/></a> 
       </button>
     </center></td>
     <td>
@@ -20,7 +20,7 @@ I have been interviewed a few times for both my activism and research.
  <tr>
     <td><center>
     <button class="btn btn-default">
-     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M/hqdefault.jpg" width="300"/></a> 
+     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="https://youtu.be/vi/xztoAxSBpuo?si=omPashRVpjpvAo3M/hqdefault.jpg" width="400"/></a> 
       </button>
     </center></td>
     <td>
@@ -30,11 +30,11 @@ I have been interviewed a few times for both my activism and research.
 <tr>
     <td><center>
     <button class="btn btn-default">
-     <a href="https://jipp.org/blog/science-for-the-people" target="_blank"><img src="/assets/img/thumbnail.jpg" width="300"/></a> 
+     <a href="https://jipp.org/blog/science-for-the-people" target="_blank"><img src="/assets/img/JIPP+Logo.png" width="400"/></a> 
       </button>
     </center></td>
     <td>
-      In conversation about Science for the People and our work with Nafis Hasan. Interview for the JIPP blog by Maanas Sharma.
+      In conversation about the work of Science for the People with Nafis Hasan. Interview for the JIPP blog by Maanas Sharma.
     </td>
 </tr>  
 </tbody>
