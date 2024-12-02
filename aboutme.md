@@ -29,7 +29,7 @@ Mentoring and teaching one-on-one to support people on their personal and profes
     </center></td>
     <td style="border:none"><center>
       <button class="btn btn-default">
-     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="500"/></a> 
+     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="600"/></a> 
       </button>
     </center></td>
 </tr>
