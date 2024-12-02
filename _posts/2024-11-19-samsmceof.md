@@ -1,7 +1,7 @@
 ---
 layout: post
 title: South American Monsoon System (SAMS) variability over the last millennium
-subtitle: A multi-archive and modeling approach to monsoon variability. This project became Chapter I of my doctoral thesis. 
+subtitle: A multi-archive and modeling approach to monsoon variability. This project became Chapter II of my doctoral thesis
 thumbnail: "/assets/img/proxylocs_gpcpfrac_era5U.png"
 ---
 
@@ -17,7 +17,6 @@ The two leading modes of cohert network variability are defined as an index of t
 </div>
 
 ### Project products:
-
 The publication of this research was selected as a highlight paper in Climate of the Past.
 
 - **Orrison, R.**, Vuille, M., Smerdon, J. E., Apaéstegui, J., Azevedo, V., Campos, J. P. S., Cruz, F. W., Della Libera, M. E. and Strı́kis, N. M., (2022), South American Summer Monsoon Variability over the Last Millennium in Paleoclimate Records and Isotope-enabled Climate Models, <a href="https://cp.copernicus.org/articles/18/2045/2022/" target="_blank">Climate of the Past</a>, 18, 2045–2062.
