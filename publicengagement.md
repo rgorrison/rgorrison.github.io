@@ -9,7 +9,7 @@ I have been an active climate advocate through a wide variety of activities. Cli
 <tbody>
 <tr>
     <td id="organizing"><center>
-      <a href="/public_engagement/organizing/"><img width="180" style="object-fit: contain;" src="/assets/img/organize.jpg"></a>
+      <a href="/public_engagement/organizing/"><img width="180" style="object-fit: contain;" src="/assets/img/organize_notxt.jpg"></a>
       <div style="margin-top: 0.5rem"><b>organizing</b></div>
     </center></td>
     <td id="teaching"><center>
