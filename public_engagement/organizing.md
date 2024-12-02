@@ -22,7 +22,7 @@ I was actively involved in leading the statewide overall strategy and labor rela
 The ['People's Green New Deal' Campaign](https://scienceforthepeople.org/peoples-green-new-deal/) was designed to call attention to the need to combat the climate crisis with widespread democratic input. We planned a series of [virtual teach-ins](https://scienceforthepeople.org/peoples-green-new-deal-virtual-teach-ins/), published a [Science for the People Magazine issue](https://magazine.scienceforthepeople.org/volume-23-number-2-a-peoples-green-new-deal/).
 
 Check out the webinar I moderated here:
-<iframe width="400"
+<iframe width="400" height="225"
 src="https://www.youtube.com/embed/2xNGTeXnclo">
 </iframe>
 
