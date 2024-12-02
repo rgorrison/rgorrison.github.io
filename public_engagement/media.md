@@ -7,10 +7,10 @@ I have been interviewed a few times for both my activism and research.
 
 <table id="repo-table" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
 <tbody>
-<tr>
-    <td style="border:none"><center>
+<tr style="border:none">
+    <td><center>
     <button class="btn btn-default">
-     <a href="https://youtu.be/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ" target="_blank"><img src="https://youtu.be/vi/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ/hqdefault.jpg" width="400"/></a> 
+     <a href="https://youtu.be/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ" target="_blank"><img src="http://img.youtube.com/vi/5WIJnnKPvEQ?si=2zrPT4ToLTnZ-4eJ/hqdefault.jpg" width="400"/></a> 
       </button>
     </center></td>
     <td>
@@ -20,7 +20,7 @@ I have been interviewed a few times for both my activism and research.
  <tr>
     <td><center>
     <button class="btn btn-default">
-     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="https://youtu.be/vi/xztoAxSBpuo?si=omPashRVpjpvAo3M/hqdefault.jpg" width="400"/></a> 
+     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="http://img.youtube.com/vi/xztoAxSBpuo?si=omPashRVpjpvAo3M/hqdefault.jpg" width="400"/></a> 
       </button>
     </center></td>
     <td>
