@@ -21,15 +21,15 @@ Mentoring and teaching one-on-one to support people on their personal and profes
   
 ### A little tidbit:
 
-<table id="repo-table">
+<table id="repo-table" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0" >
 <tbody>
 <tr>
-    <td><center>
+    <td style="border:none"><center>
       If you want to learn more about paleoclimate science (and hear what I sound like), click this thumbnail to watch the amazing documentary <span style="font-style:italic">Chasing Traces</span> that I narrated.
     </center></td>
-    <td><center>
+    <td style="border:none"><center>
       <button class="btn btn-default">
-     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="300"/></a> 
+     <a href="https://youtu.be/xztoAxSBpuo?si=omPashRVpjpvAo3M" target="_blank"><img src="/assets/img/chasingtracespast.jpg" width="400"/></a> 
       </button>
     </center></td>
 </tr>
