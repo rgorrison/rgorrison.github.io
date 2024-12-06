@@ -30,7 +30,7 @@ navbar-links:
   #  - Public Talks: "public_talks"
   #  - Media: "media"
   Publications: "publications"
-  Resume: "cv/resume"
+  Resume: "cv | resume"
     - CV: "cv"
     - Resume: "resume"
 ################
