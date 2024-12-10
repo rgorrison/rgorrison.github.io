@@ -30,7 +30,7 @@ navbar-links:
   #  - Public Talks: "public_talks"
   #  - Media: "media"
   Publications: "publications"
-  CV / Resume: 
+  CV & Resume: 
     - CV: "cv"
     - Resume: "resume"
 ################
@@ -147,7 +147,7 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-3JMHS761DT" 
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
