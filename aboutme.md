@@ -7,7 +7,7 @@ title: about me
 <p style="text-align:center;font-style:italic">Power is the key to change; action builds power; science informs action.</p>
 
 
-Carl Sagan said “science is more than a body of knowledge; it is a way of skeptically analyzing the universe.” I am interested in developing the scientific basis of a progressive vision for a democratic, equitable, and zero-emissions world. I hope to support social and political mobilization by engaging in an analytic and participatory process that builds on diverse epistemologies and sources of information to develop solutions that address to the challenges of our changing climate.
+Carl Sagan said “science is more than a body of knowledge; it is a way of skeptically analyzing the universe.” I am interested in developing the scientific basis of a progressive vision for a democratic, equitable, and zero-emissions world.
 
 ## Academic journey
 I recieved my Ph.D. in July of 2024 in atmospheric science from the Department of Atmospheric and Environmental Sciences from the University at Albany under the advisement of Dr. Mathias Vuille. My dissertation focused on the isotopic hydroclimate of the South American Summer Monsoon. Through this work I synthesized diverse data sources to study the past, present, and future of large-scale atmospheric variability and change. In addition to leading a few research projects, I was thrilled to work with colleagues from across the Americas to advance collaborative research goals as part of the <a href="https://www.pirecreate.com" target="_blank">PIRE-CREATE program</a>.
