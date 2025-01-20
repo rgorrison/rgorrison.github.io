@@ -3,13 +3,13 @@ layout: page
 title: public engagement
 ---
 
-I have been an active climate advocate through a wide variety of activities. Click on the icons below to learn further details about my work. 
+I am an active advocate for climate action through a wide variety of activities. Click on the icons below to learn further details about my work. 
         
 <table id="repo-table" align="center">
 <tbody>
 <tr>
-    <td id="organizing"><center>
-      <a href="/public_engagement/organizing/"><img width="180" style="object-fit: contain;" src="/assets/img/organize_notxt.jpg"></a>
+    <td id="leadership"><center>
+      <a href="/public_engagement/leadership/"><img width="180" style="object-fit: contain;" src="/assets/img/leadership.jpg"></a>
       <div style="margin-top: 0.5rem"><b>organizing</b></div>
     </center></td>
     <td id="teaching"><center>
