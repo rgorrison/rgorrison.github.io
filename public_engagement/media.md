@@ -3,7 +3,7 @@ layout: page
 title: media
 ---
 
-I have been interviewed a few times for both my activism and research. 
+I have been interviewed a few times for both my advocacy and research. 
 
 <table id="repo-table" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
 <tbody>
