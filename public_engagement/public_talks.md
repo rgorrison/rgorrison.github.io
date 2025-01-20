@@ -3,7 +3,7 @@ layout: page
 title: public talks
 ---
 
-I have given a number of self-organized and invited talks in coordination wtih other organizations to public audiences on the topic of climate change. My focus within the framework for these talks is to be grounded first in scientific fact and to close with system-change call to action. 
+I have given a number of self-organized and invited talks in coordination wtih other organizations to public audiences on the topic of climate change. My focus within the framework for these talks is to be grounded first in scientific fact and to close with a practical and systematic approach to climate action.
 
 ### 2022
 [6] "Climate Change and Us", Osterhout Free Library, Wilkes-Barre, PA
