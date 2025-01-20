@@ -9,7 +9,7 @@ I am an active advocate for climate action through a wide variety of activities.
 <tbody>
 <tr>
     <td id="leadership"><center>
-      <a href="/public_engagement/leadership/"><img width="180" style="object-fit: contain;" src="/assets/img/teamwork"></a>
+      <a href="/public_engagement/organizing/"><img width="180" style="object-fit: contain;" src="/assets/img/teamwork"></a>
       <div style="margin-top: 0.5rem"><b>leadership</b></div>
     </center></td>
     <td id="teaching"><center>
