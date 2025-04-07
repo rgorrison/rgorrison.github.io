@@ -33,7 +33,7 @@ navbar-links:
   CV | Resume: 
     - CV: "cv"
     - Resume: "resume"
-  Portfolio: "https://github.com/rgorrison/portfolio"
+  Portfolio: "portfolio" #"https://github.com/rgorrison/portfolio"
 ################
 # --- Logo --- #
 ################
